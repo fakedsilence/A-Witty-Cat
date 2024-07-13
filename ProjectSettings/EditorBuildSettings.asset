@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 944783b0844b8bc4da546f347bded0af
+  - enabled: 1
+    path: Assets/Scenes/Palace0.unity
+    guid: c8b7ef440c71b7445a6a42604de00372
+  - enabled: 1
+    path: Assets/Scenes/Palace.unity
+    guid: 16eea46b5819b7c44addbd0e503b724b
+  - enabled: 1
+    path: Assets/Scenes/Palace1.unity
+    guid: b7b1ce6fac663524b98eea1ad93ed152
+  - enabled: 1
+    path: Assets/Scenes/Slum_dialogue_0.unity
+    guid: 21833e7a27615ba4d8e063ade8721f9c
+  - enabled: 1
+    path: Assets/Scenes/Palace2.unity
+    guid: d49be7e03e27a9a4fa52dd229c53769b
+  - enabled: 1
+    path: Assets/Scenes/Palace3.unity
+    guid: 004dd8e5297a47b439a6026974ff8e15
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 582e517e8ab85814f94e8ca2857a5a1b
+  - enabled: 1
+    path: Assets/Scenes/Slum.unity
+    guid: 9073f1ddd91ba3749a762f061ee6e63d
+  - enabled: 1
+    path: Assets/Scenes/Slum Level1.unity
+    guid: 52c120de6b6151940a801de79c76258d
+  - enabled: 1
+    path: Assets/Scenes/Palace4.unity
+    guid: 71834ae0220b0154bad2d2969d8058c5
+  - enabled: 1
+    path: Assets/Scenes/Palace5.unity
+    guid: 0376f617e259b054b94dc518cb9356d1
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 6345e03f5dd391446a7cd0c3c159ef18
+  - enabled: 1
+    path: Assets/Scenes/Palace6.unity
+    guid: 890168aa6eebe9145b827103327e2d87
+  - enabled: 1
+    path: Assets/Scenes/Slum Level2.unity
+    guid: c8083842601226c4f950c64e70f67139
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 4c7c65e168cc178478a77ab98b804d6e
+  m_configObjects: {}
